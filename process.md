@@ -38,5 +38,27 @@ typeing test
 
 
 ## L20 QA 
+x + y 
+1) x
+2) y 
+3) built in 
+
+repr 
+__repr__
+ask its argument what is your repr method 
+if not defined, default behavior 
+#<__main__.A object at 0x0000020DF286E7B8>, not useful just a placeholder 
+#A(),stupid shows more interesting info about A 
+
+
+tree
+yield - return
+
+root depth 0 
+
+
+
+
+
 
 
